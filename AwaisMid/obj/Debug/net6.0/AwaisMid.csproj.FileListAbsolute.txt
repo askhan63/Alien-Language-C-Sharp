@@ -1,0 +1,15 @@
+C:\Users\AS KHAN\source\repos\AwaisMid\AwaisMid\obj\Debug\net6.0\AwaisMid.csproj.AssemblyReference.cache
+C:\Users\AS KHAN\source\repos\AwaisMid\AwaisMid\obj\Debug\net6.0\AwaisMid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AS KHAN\source\repos\AwaisMid\AwaisMid\obj\Debug\net6.0\AwaisMid.AssemblyInfoInputs.cache
+C:\Users\AS KHAN\source\repos\AwaisMid\AwaisMid\obj\Debug\net6.0\AwaisMid.AssemblyInfo.cs
+C:\Users\AS KHAN\source\repos\AwaisMid\AwaisMid\obj\Debug\net6.0\AwaisMid.csproj.CoreCompileInputs.cache
+C:\Users\AS KHAN\source\repos\AwaisMid\AwaisMid\bin\Debug\net6.0\AwaisMid.exe
+C:\Users\AS KHAN\source\repos\AwaisMid\AwaisMid\bin\Debug\net6.0\AwaisMid.deps.json
+C:\Users\AS KHAN\source\repos\AwaisMid\AwaisMid\bin\Debug\net6.0\AwaisMid.runtimeconfig.json
+C:\Users\AS KHAN\source\repos\AwaisMid\AwaisMid\bin\Debug\net6.0\AwaisMid.dll
+C:\Users\AS KHAN\source\repos\AwaisMid\AwaisMid\bin\Debug\net6.0\AwaisMid.pdb
+C:\Users\AS KHAN\source\repos\AwaisMid\AwaisMid\obj\Debug\net6.0\AwaisMid.dll
+C:\Users\AS KHAN\source\repos\AwaisMid\AwaisMid\obj\Debug\net6.0\refint\AwaisMid.dll
+C:\Users\AS KHAN\source\repos\AwaisMid\AwaisMid\obj\Debug\net6.0\AwaisMid.pdb
+C:\Users\AS KHAN\source\repos\AwaisMid\AwaisMid\obj\Debug\net6.0\AwaisMid.genruntimeconfig.cache
+C:\Users\AS KHAN\source\repos\AwaisMid\AwaisMid\obj\Debug\net6.0\ref\AwaisMid.dll
